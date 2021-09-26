@@ -17,7 +17,7 @@ public class Main {
 
         Iterator itr=PizzaMenuList.iterator();
         while(itr.hasNext()) {
-            System.out.println(itr.next());
+            System.out.println(itr.next().toString());
 
         }
 

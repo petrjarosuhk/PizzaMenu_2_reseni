@@ -39,6 +39,6 @@ public class PizzaMenuItems {
    @Override  // for editing the method string
     public String toString(){
 
-        return name+ " " + description + " " + prize +"CZK";
+        return name+ " " + description + " " + prize + "CZK";
     }
 }
